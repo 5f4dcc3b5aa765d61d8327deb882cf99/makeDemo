@@ -3,7 +3,7 @@
 
 void myPrintHelloMake(void) {
 
-  printf("Hello makefiles!\n");
+  printf("Hello 5f4dcc3b5aa765d61d8327deb882cf99!\n");
 
   return;
 }
